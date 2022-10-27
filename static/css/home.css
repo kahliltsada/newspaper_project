@@ -1,0 +1,23 @@
+.landing{
+    background-image: url(https://media3.giphy.com/media/3orifcfs0W3p2JExyM/giphy.gif?cid=ecf05e47ilmfbi10rrcy1yxjlvd4teenhfigbtpcmenujn0q&rid=giphy.gif&ct=g);
+    padding: 10%;
+    position: absolute;
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+.landing-container{
+    background-color: rgba(55, 54, 54, 0.866);
+    width: auto;
+    height: 500px;
+    padding: 20px;
+}
+.landing-container h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.landing-container p{
+    font-size: 25px;
+
+}
